@@ -15,7 +15,7 @@ public class PrimeNumbers {
 				}
 			}
 			if (k == 0) {
-				System.out.println("Prime Numbers from 1 to 100 :" + i);
+				System.out.println(" Prime Numbers from 1 to 100 :" + i);
 			}
 		}
 	}

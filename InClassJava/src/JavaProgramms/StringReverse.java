@@ -4,7 +4,7 @@ public class StringReverse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String input = "FaceBook LogIn and SignUp";
+		String input = " FaceBook LogIn and SignUp";
 
 		// convert String to character array using toCharArray
 
